@@ -32,7 +32,7 @@ This application was developed with a a combination of vanilla JavaScript and jQ
 ## Getting Started
 ____________________
 
-[Click here](https://hoseacodes.github.io/react-star-wars/) to open app in browser.
+[Click here](https://xenodochial-boyd-885f25.netlify.app) to open app in browser.
 ____________________
 
 ## Future Enhancements
